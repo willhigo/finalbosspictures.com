@@ -492,16 +492,16 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-right: auto;
 }
 
+.mt-16 {
+  margin-top: 4rem;
+}
+
 .mt-8 {
   margin-top: 2rem;
 }
 
 .mt-4 {
   margin-top: 1rem;
-}
-
-.mt-16 {
-  margin-top: 4rem;
 }
 
 .inline-block {
